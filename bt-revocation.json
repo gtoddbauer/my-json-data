@@ -1,5 +1,5 @@
 {
-  "active": false,
+  "active": true,
   "revoked": [],
-  "message": "Brick Tracker is temporarily unavailable"
+  "message": "Brick Tracker is currently unavailable"
 }
